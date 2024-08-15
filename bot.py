@@ -3,7 +3,7 @@ from discord.ext import commands, tasks
 from datetime import datetime
 import pytz
 
-TOKEN = 'MTI1OTEwODYzNTYxNTY5NDk1OQ.G5BVdl.BR99XXPNv9aVqGlLy1vK2OvwiTJWZSAc79SwjI'
+TOKEN = 'fff'
 CHANNEL_ID = '1273376272768303218'  # Укажите ID канала, куда будет отправлено сообщение
 MESSAGE = '<@706547063738990613> пруфыыыыы'
 SCHEDULE_TIME = '20:00'  # Укажите время в формате HH:MM
